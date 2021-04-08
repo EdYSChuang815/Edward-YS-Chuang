@@ -33,6 +33,7 @@ Date of birth: August 15, 1996 in New York city, USA
 ## Extracurricular Activities
 ### Director of General Affairs, Student Association of the Department of Agron- omy, National Taiwan University, 2017
 - Responsibilities: Inviting speaker; Cashier for department fair; Organizing excursion, BBQ parties, etc.
+
 ### Softball Team Captain, Department of Agronomy, National Taiwan University, 2017
 ### Public affairs, Star Rain Autism Club, National Taiwan University, 2016
 - Star rain autism club is a club that holds camps for Autism kids. Star rain autism club promotes to general population that autism is harmless.
@@ -53,7 +54,7 @@ Date of birth: August 15, 1996 in New York city, USA
 - French A1 course in National Taiwan University
 
 ### German driver’s licence Class B
-- Eligible to drive accross all EU countries and Switzerland.
+Eligible to drive accross all EU countries and Switzerland.
 
 #### Jekyll Themes
 This Pages use the layout and styles from the Jekyll.
