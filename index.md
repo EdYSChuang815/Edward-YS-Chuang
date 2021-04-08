@@ -1,8 +1,8 @@
 # Edward Chuang
 Date of birth: August 15, 1996 in New York city, USA
 
-- Email edwardchuang0815@gmail.com
-- Facebook https://www.facebook.com/edwardchuang0815
+- Email edwardchuang0815(at)gmail.com
+- [Facebook](https://www.facebook.com/edwardchuang0815)
 
 ## Education
 
@@ -27,8 +27,8 @@ Date of birth: August 15, 1996 in New York city, USA
 
 ### Podcasting, since mid 2020.
 - Producing a podcast show in Mandarin Chinese to share my life in Germany 
-- Show link: https://open.firstory.me/user/shun-de-leben/platforms
-- https://open.firstory.me/embed/story/ckixcxane4e6a089281fo3k0r
+- [Show link](https://open.firstory.me/user/shun-de-leben/platforms)
+- (https://open.firstory.me/embed/story/ckixcxane4e6a089281fo3k0r)
 
 ## Extracurricular Activities
 ### Director of General Affairs, Student Association of the Department of Agron- omy, National Taiwan University, 2017
